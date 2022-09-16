@@ -12,7 +12,7 @@ _**Word Here**_
 
 # Picture Example
 
-![Spider-Man](C:\LOCAL\DAM\My Documents\OneDrive - Personal\OneDrive\GitHubRepos\Mark_Down_Templates\Templates\image\friendly neighborhoodPS.png)
+![PS-Spiderman](image/ReadMe/friendlyneighborhoodPS.png)
 
 # Link Example
 
@@ -64,3 +64,23 @@ Heading can have a total of 7 level
    * test detail
 
 
+# Block quotes Example 1
+
+
+
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..
+
+
+# Block quotes Example 2
+
+* This is the first list item.
+* Here's the second list item.
+
+    > A blockquote example.
+
+
+# Code Snippet Example
+```
+New-Item -Path 'Registry::HKEY_LOCAL_MACHINE\SYSTEM\TestKey' –Force
+
+```

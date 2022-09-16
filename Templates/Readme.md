@@ -1,26 +1,26 @@
-# Bold
+# Bold Example
 
 __Word Here__
 
-# Italic
+# Italic Example
 
 *Word Here*
 
-# Bold and Italic
+# Bold and Italic Example
 
 _**Word Here**_
 
-# Picture
+# Picture Example
 
 ![Spider-Man](C:\LOCAL\DAM\My Documents\OneDrive - Personal\OneDrive\GitHubRepos\Mark_Down_Templates\Templates\image\friendly neighborhoodPS.png)
 
-# Link
+# Link Example
 
 [LinkDescription](https://www.markdownguide.org/basic-syntax)
 
 
-# Headings
-Can have a total of 7 level
+# Headings Example
+Heading can have a total of 7 level
 # Heading 1
 
 ## Heading 2
@@ -33,7 +33,7 @@ Can have a total of 7 level
 
 ###### Heading 6
 
-# Table 1
+# Table 1 Example
 
 # First Section
 ### Topic of first section
@@ -42,7 +42,7 @@ Can have a total of 7 level
 2. Test
 3. test
 
-# Table 2
+# Table 2 Example
 
 # First Section
 ### Topic of first section
@@ -51,7 +51,7 @@ Can have a total of 7 level
 - Test2
 - test2
 
-# Table 3
+# Table 3 Example
 
 # First Section
 ### Topic of first section

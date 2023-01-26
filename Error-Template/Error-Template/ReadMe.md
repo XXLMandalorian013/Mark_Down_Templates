@@ -1,26 +1,35 @@
 # Title
 
+## Prerequisites/Notes:
 
-## Issue:
+	1. 
 
-zzz
+
+## Issue: 
+
+	1. 
+
+
+## Causes: 
+
+	1. 
+
 
 ## Tried:
 
-1. zzz
+	1. 
+
 
 ## To do:
 
-1. zzz
+	1. 
+
 
 ## Solution:
 
-1. zzz
+	1. 
 
-## Causes:
 
-zzz
+## Links:
 
-## Links
-
-1. zzz
+    1.

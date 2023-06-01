@@ -288,11 +288,11 @@ have multiple lines[^3]. Just add two returns between the lines.
 
 3. You can then paste the URL where your images are hosted at from your repo into the GitHub flavored mardown syntax `![SpiderManW/PSLogo](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/friendlyNeighborhoodPS.png)` or drag and drop the image by left clicking and holding, and it will automatically add the syntax for you.
 
-![SpiderManW/PSLogo](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/friendlyNeighborhoodPS.png)
+![friendlyNeighborhoodPS.png](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/Images/friendlyNeighborhoodPS.png)
 
 That said, I found this cool tool from Microsoft called learn-images that compresses images to save space. See its VSCode Marketplace link [here](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-images) for how to use it!
 
-![Image-Reduction-Compair.png](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/Image-Reduction-Compair.png)
+![Image-Reduction-Compair.png](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/Images/Image-Reduction-Compair.png)
 
 ## Code :computer:
 
@@ -333,7 +333,7 @@ Add-VMDvdDrive -VMName "$Global:VMName" -Path "$Global:ISOPath"
 
 ### Display code blocks within a code block
 
-<img src="https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/a1109635cf80efe63821b1e1f7e56395b55c7488/GitHubMDTemplate/Images/DisplayCodeBlocksWithinACodeBlock.png">
+![DisplayCodeBlocksWithinACodeBlock.png](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/Images/DisplayCodeBlocksWithinACodeBlock.png)
 
 ### Quoting Code
 
@@ -521,7 +521,7 @@ A section is defined as anything with the `#` or heading. This can range from `#
  
 2. Then go to that repo in the browser, and click on the link icon. It will copy it to your clipboard.
 
-![Alt text](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/Section-Links.png)
+![Section-Links.png](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/Images/Section-Links.png)
 
 3. Paste that link back into your MD file and use the GitHub flavored way to add links.
 
@@ -537,7 +537,7 @@ Here is the raw of what that looks like.
 
 Github creates a table of contense based off your headings withing a Markdown file. They call it an "Outline".
 
-<img src="https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/MarkdownTOC.png">
+![MarkdownTOC.png](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/Images/MarkdownTOC.png)
 
 Should you want to include a table of contense withing your MD page
 

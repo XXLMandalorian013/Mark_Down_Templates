@@ -282,7 +282,7 @@ have multiple lines[^3]. Just add two returns between the lines.
 
 1. When I add images to GitHubs flavored markdown, I save them in a subfolder I have created called images.
 
-![Image-Hierarchy-Example.png](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/Images/Image-Hierarchy-Example.png)
+![Image-Hierarchy-Example.png](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/Images/Image-Hierarchy-Example.png)
 
 2. I then push them up to the Repo in github. 
 

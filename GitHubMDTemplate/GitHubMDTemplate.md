@@ -68,7 +68,8 @@
 
 </details>
 
-Note: The short cuts referneced here are a combination of exsisting VSCode and a plug it from MS called [learn-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown). Also the MD discribed below renders properly on GitHub, but may look off or broken in VSCode's defualt previewer. Just roll with my examples and push them to your repo and see for yourself.
+>![Red Exclimation Mark](https://placehold.it/15/FF0000/000000?text=!)
+ Note: The short cuts referneced here are a combination of exsisting VSCode and a plug it from MS called [learn-markdown](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-markdown). Also the MD discribed below renders properly on GitHub, but may look off or broken in VSCode's defualt previewer. Just roll with my examples and push them to your repo and see for yourself.
 
 ## Headings :man_beard:
 

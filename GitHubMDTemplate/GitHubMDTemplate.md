@@ -5,37 +5,15 @@
 <details>
 <summary>Click to expand</summary>
 
-[Top of this page :page_facing_up:](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#github-octocat-markdown-template-page_facing_up)
+[Top of page :page_facing_up:](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#github-octocat-markdown-template-page_facing_up)
 
-[Headings :man_beard:](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#first-level-heading)
+[Table of contents](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#table-of-contents)
 
-[Styling :man_in_tuxedo:](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#styling-man_in_tuxedo)
+[Headings :man_beard:](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#table-of-contents)
 
-*    [Italic](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#italic-example)
-*    [Italic](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#italic-example)
-*    [Bold and italic](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#bold-and-italic-example)
-*    [Strikethrough](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#strikethrough-example)
-*    [Numbered List](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#numbered-list)
-*    [Bulleted List](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#bulleted-list)
-*    [Nested Lists](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#nested-lists)
-*    [Task List](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#task-list)
+- [Headings :man_beard:](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#table-of-contents)
 
-[Colors :paintbrush:](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#color-boxes)
-
-*    [Color Boxes](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#quoting-code)
-*    [Color Font](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#color-font)
-
-[Paragraphs/Line Breaks :books:](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#paragraphsline-breaks-books)
-
-[Footnotes :footprints:](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#footnotes-footprints)
-
-[Images :framed_picture:](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#images-framed_picture)
-
-[Code :computer:](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#code-computer)
-*    [Code blocks without syntaxing](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#code-blocks-without-syntaxing)
-*    [Code blocks with syntaxing](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#code-blocks-with-syntaxing)
-*    [Display code blocks within a code block](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#display-code-blocks-within-a-code-block)
-*    [Quoting Code](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#quoting-code)
+    - [Headings :man_beard:](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#table-of-contents)
 
 </details>
 
@@ -532,6 +510,39 @@ Here is the raw of what that looks like.
 ```md
 [Links back to the top of this page](https://github.com/XXLMandalorian013/Docs-Sofware-SAS-Public/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#github-octocat-markdown-template-page_facing_up)
 ```
+You can have severl levels of sub headers.
+
+[Headings](URL)
+
+- [Subheading 1](URL)
+
+    - [Subheading 2](URL)
+
+        - [Subheading 3](URL)
+
+            - [Subheading 4](URL)
+
+                - [Subheading 5](URL)
+
+                    - [Subheading 6](URL)
+
+Here is the raw Markdown for sub headers under a main header.
+
+```markdown
+[Headings](URL)
+
+- [Subheading 1](URL)
+
+    - [Subheading 2](URL)
+
+        - [Subheading 3](URL)
+
+            - [Subheading 4](URL)
+
+                - [Subheading 5](URL)
+
+                    - [Subheading 6](URL)
+```
 
 ## Table of Contents :open_book:
 
@@ -543,7 +554,7 @@ Should you want to include a table of contense withing your MD page
 
 Once you under stand Section Links, you can also use [markdown-toc](https://ecotrust-canada.github.io/markdown-toc/) to automatically generate a TOC and paste into your Mdarkdown page.
 
-Here is a TOC from markdown-toc.
+Here is a TOC from markdown-toc's generator.
 
 ###### Table of Contents
 

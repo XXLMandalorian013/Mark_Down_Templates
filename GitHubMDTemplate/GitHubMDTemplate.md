@@ -611,7 +611,7 @@ Github creates a table of contense based off your headings withing a Markdown fi
 
 ![MarkdownTOC.png](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/Images/MarkdownTOC.png)
 
-Should you want to include a table of contense withing your MD page
+Should you want to include a table of contense withing your MD page you can use Section Links to achive this as well. See the TOC at the top of the page [here](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#table-of-contents). Be sure to click the arrow to expand it!
 
 Once you under stand Section Links, you can also use [markdown-toc](https://ecotrust-canada.github.io/markdown-toc/) to automatically generate a TOC and paste into your Mdarkdown page.
 

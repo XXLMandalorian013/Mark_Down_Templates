@@ -11,9 +11,60 @@
 
 [Headings :man_beard:](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#table-of-contents)
 
-- [Headings :man_beard:](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#table-of-contents)
+- [Bold](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#bold)
+- [Italic](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#italic)
+- [Bold and italic](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#bold-and-italic)
+- [Strikethrough](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#strikethrough)
+- [Numbered List](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#numbered-list)
+- [Bulleted List](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#bulleted-list)
+- [Nested Lists](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#nested-lists)
+- [Task List](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#task-list)
 
-    - [Headings :man_beard:](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#table-of-contents)
+[Colors :paintbrush:](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#colors-paintbrush)
+
+- [Color Boxes](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#color-boxes)
+- [Color Font](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#color-boxes)
+
+[Paragraphs/Line Breaks :books:](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#paragraphsline-breaks-books)
+
+[Footnotes :footprints:](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#footnotes-footprints)
+
+[Images :framed_picture:](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#images-framed_picture)
+
+[Code :computer:](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#code-computer)
+
+- [Code blocks with syntaxing](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#code-blocks-with-syntaxing)
+- [Display code blocks within a code block](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#display-code-blocks-within-a-code-block)
+- [Quoting Code](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#quoting-code)
+
+[:running_woman: Escaping Markdown](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#running_woman-escaping-markdown)
+
+[Example of a table :bar_chart:](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#example-of-a-table-bar_chart)
+
+[Section :bookmark_tabs:](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#section-bookmark_tabs)
+
+- [Pre-collapsed section](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#pre-collapsed-section)
+- [Collapsed section](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#collapsed-section)
+
+[Quote :speech_balloon:](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#quote-speech_balloon)
+
+- [Quote Style 1](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#quote-style-1)
+- [Quote Style 2](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#quote-style-2)
+
+[Comment :memo:](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#comment-memo)
+
+[Subscript :alembic:](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#subscript-alembic)
+
+[Superscript :superhero_man:](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#superscript-superhero_man)
+
+[Emojis :grin:](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#emojis-grin)
+
+[Links :link:](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#links-link)
+
+- [URL Links](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#url-links)
+- [Section Links](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#section-links)
+
+[Table of Contents :open_book:](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#table-of-contents-open_book)
 
 </details>
 
@@ -175,7 +226,7 @@ Here is the raw Markdown for task lists here.
 
 ## Colors :paintbrush:
 
-Github Markdown does not nativly support markdown font colors nor its long handed brother html, but I did stuble upon some folks RegEx workaround for rendering blocks of color and colored front. The blocks only hold text for around three letters worth of text. As they are not native, they may not work in the furture so keep that in mind.
+Github Markdown does not nativly support markdown font colors nor its long handed brother html, but I did stuble upon some folks RegEx workaround for rendering color boxes and colored front. The blocks only hold text for around three letters worth of text. As they are not native, they may not work in the furture so keep that in mind.
 
 ### Color Boxes
 
@@ -202,6 +253,16 @@ Here is the raw Markdown for the color boxes.
 #### $\textcolor{blue}{\textsf{Here is some text!}}$
 
 #### $\textcolor{green}{\textsf{Here is some text!}}$
+
+Here is the raw Markdown for the color boxes.
+
+```md
+#### $\textcolor{red}{\textsf{Here is some text!}}$
+
+#### $\textcolor{blue}{\textsf{Here is some text!}}$
+
+#### $\textcolor{green}{\textsf{Here is some text!}}$
+```
 
 ## Paragraphs/Line Breaks :books:
 

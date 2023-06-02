@@ -9,7 +9,7 @@
 
 [Table of contents](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#table-of-contents)
 
-[Headings :man_beard:](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#table-of-contents)
+[Headings :man_beard:](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#headings-man_beard)
 
 - [Bold](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#bold)
 - [Italic](https://github.com/XXLMandalorian013/Mark_Down_Templates/blob/main/GitHubMDTemplate/GitHubMDTemplate.md#italic)

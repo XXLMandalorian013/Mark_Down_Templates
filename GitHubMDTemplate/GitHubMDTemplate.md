@@ -77,17 +77,25 @@ There are six recognized heading sizes. The largest is Heading 1; the smallest i
 
 ```markdown
 # first-level heading
-
+```
+```markdown
 ## second-level heading
-
+```
+```markdown
 ### third-level heading
-
+```
+```markdown
 #### fourth-level heading
-
+```
+```markdown
 ##### fifth-level heading
+```
 
+```markdown
 ###### sixth-level heading
+```
 
+```markdown
 no heading
 ```
 
